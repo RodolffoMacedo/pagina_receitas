@@ -33,10 +33,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Página elaborada para treinamento de funções para adequação mobile das páginas Web.
 
 
-![image](https://github.com/RodolffoMacedo/site_responsivo/assets/146378931/11e47346-3f30-44ec-9e06-2a8c8eea480f)
+![image](https://github.com/RodolffoMacedo/pagina_receitas/assets/146378931/f09bf4e6-b97d-4045-a4df-bd2ea49b4ac6)
 
-![image](https://github.com/RodolffoMacedo/site_responsivo/assets/146378931/7a11f9ea-01a7-4b0d-bdb9-5463e2996fd3)
-
+![image](https://github.com/RodolffoMacedo/pagina_receitas/assets/146378931/eee1c27b-62c2-4738-a09b-2694185185f2)
 
 
 
